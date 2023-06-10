@@ -18,5 +18,3 @@ I am a computer engineer.<br>I develop software with c#, angular, python, html a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=0berkekaya&icon=0&color=0)](https://visitcount.itsvg.in)
-
